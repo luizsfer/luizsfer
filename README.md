@@ -3,8 +3,7 @@ Hi there 👋
 I'm a Site Reability Engineer working in Berlin, Germany
 
 NOW
-- ✨ Start a personal blog
-- 🇩🇪 Moving and Learning about Berlin and Germany
+- ✨ Starting a personal blog
 
 BIO
 - 🏢 I'm currently working at Delivery Hero SE
